@@ -1,16 +1,17 @@
-### Hi there 👋
+### sja3410_coding story 👋
 
-<!--
-**sja3410/sja3410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 2020.08~2020.12 goals & activities
+ - 🌱 database(SQL) study
+ - 🌱 Kotlin study 
+ - 🌱 algorithm study 
+ - 🌱 android(java) mentor & project
+ - 🌱 C programing mentor
+ - 🌱 AWS study(To Be Started)
+ 
+### a language that can be handled
+ - 💬  C, C++, Java, Kotlin, JavaScript, Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### interesting field
+ - 😄 database, sever develop, data management
+ 
+- 🔭🌱👯🤔💬📫😄⚡ 
