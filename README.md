@@ -8,7 +8,7 @@
  - 🌱 C programing mentor
  - 🌱 AWS study(To Be Started)
  
-### a language that can be handled
+### language i can use
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
 
 ### interesting field
