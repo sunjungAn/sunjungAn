@@ -6,7 +6,8 @@
  - 🌱 algorithm study 
  - 🌱 android(java) mentor & project
  - 🌱 C programing mentor
- - 🌱 AWS study(To Be Started)
+ - 🌱 AWS study
+ - 🌱 Docker study
  
 ### language i can use
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
