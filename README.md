@@ -9,6 +9,13 @@
  - 🌱 AWS study
  - 🌱 Docker study
  
+#### 2020.12~2020.3 goals & activities
+ - 🌱 SQLD license
+ - 🌱 AWS study group & license
+ - 🌱 algorithm study 
+ - 🌱 data structure mentor
+
+ 
 ### language i can use
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
 
