@@ -16,12 +16,13 @@
  - 🌱 AWS study group & license
  - 🌱 algorithm study 
  - 🌱 data structure mentor
+ - 🌱 machine learning 
 
  
 ### language i can use
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
 
 ### interesting field
- - 😄 database, sever develop, data management
+ - 😄 database, sever develop, data management, AI, Machine Learning
  
 - 🔭🌱👯🤔💬📫😄⚡ 
