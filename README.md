@@ -17,7 +17,9 @@
  - 🌱 AWS study group & license
  - 🌱 algorithm study 
  - 🌱 data structure mentor
- - 🌱 machine learning 
+ - 🌱 machine learning
+ - 🌱 boostcourse <pythorch zero to all>
+
 
  
 ### language i can use
