@@ -18,8 +18,7 @@
  - 🌱 algorithm study 
  - 🌱 data structure mentor
  - 🌱 machine learning
- - 🌱 boostcourse<pytorch zero to all>
-
+ - 🌱 boostcourse pytorch zero to all
 
  
 ### language i can use
