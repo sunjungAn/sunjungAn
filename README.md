@@ -18,7 +18,7 @@
  - 🌱 algorithm study 
  - 🌱 data structure mentor
  - 🌱 machine learning
- - 🌱 boostcourse <pythorch zero to all>
+ - 🌱 boostcourse<pytorch zero to all>
 
 
  
