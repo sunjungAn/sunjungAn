@@ -25,6 +25,6 @@
  - 💬  C, C++, Java, Kotlin, JavaScript, Python
 
 ### interesting field
- - 😄 database, sever develop, data management, AI, Machine Learning
+ - 😄 data processing, AI, Machine Learning
  
 - 🔭🌱👯🤔💬📫😄⚡ 
