@@ -9,16 +9,19 @@
  - 🌱 algorithm study 
  - 🌱 android(java) mentor & project
  - 🌱 C programing mentor
- - 🌱 AWS study
- - 🌱 Docker study
  
-#### 2020.12~2020.3 goals & activities
- - 🌱 SQLD license
- - 🌱 AWS study group & license
+#### 2020.12~2021.3 goals & activities
+ - 🌱 SQL
+ - 🌱 AWS study group
  - 🌱 algorithm study 
  - 🌱 data structure mentor
  - 🌱 machine learning
  - 🌱 boostcourse pytorch zero to all
+
+#### 2021.3~2021.7 goals & activities
+ - 🌱 Deep Learning
+ - 🌱 data modeling & mining
+ - 🌱 
 
  
 ### language i can use
