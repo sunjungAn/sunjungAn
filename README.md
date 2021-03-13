@@ -21,7 +21,7 @@
 #### 2021.3~2021.7 goals & activities
  - 🌱 Deep Learning
  - 🌱 data modeling & mining
- - 🌱 
+ - 🌱 openCV exercise
 
  
 ### language i can use
