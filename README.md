@@ -22,6 +22,8 @@
  - 🌱 Deep Learning
  - 🌱 data modeling & mining
  - 🌱 openCV exercise
+ - 🌱 DSP
+ - 🌱 Node.js
 
  
 ### language i can use
