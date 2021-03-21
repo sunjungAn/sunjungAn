@@ -23,7 +23,7 @@
  - 🌱 data modeling & mining
  - 🌱 openCV exercise
  - 🌱 DSP
- - 🌱 Node.js
+ - 🌱 JavaSpring
 
  
 ### language i can use
