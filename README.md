@@ -23,6 +23,7 @@
  - 🌱 openCV exercise
  - 🌱 DSP
  - 🌱 JavaSpring
+ - 🌱 Web Project
 
  
 ### language i can use
