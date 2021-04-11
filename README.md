@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunjungAn&show_icons=true)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dkstjswjd83})](https://solved.ac/{dkstjswjd83})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkstjswjd83)](https://solved.ac/dkstjswjd83)
 
 
 #### 2020.08~2020.12 goals & activities
