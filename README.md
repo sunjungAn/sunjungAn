@@ -18,4 +18,5 @@ https://www.linkedin.com/in/sunjung-an-5489b2209/
 https://dkstjswjd83.gitbook.io/sunjungan/
 
 
-![image](https://user-images.githubusercontent.com/55094745/124409907-45b76300-dd84-11eb-8f5f-643b2c39f5fd.png)
+
+![image](https://user-images.githubusercontent.com/55094745/124482239-091b5400-dde4-11eb-8c51-9313417995b1.png)
