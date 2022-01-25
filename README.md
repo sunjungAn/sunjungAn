@@ -13,6 +13,7 @@
  
  
  **:musical_note: Wish3: Study that I'm interested in.**
+ + SQL :arrow_right: [Click](https://bubbly-hurricane-f9e.notion.site/SQL-6c18d157eb504a33ad7e8a143afcd925)
 
  **:four_leaf_clover: Wish4: My Footprints:stuck_out_tongue_closed_eyes:**
 + 2019 entrance into Sangmyung Univ.
