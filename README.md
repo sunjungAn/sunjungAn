@@ -1,6 +1,5 @@
-## sunjung's note
-### :tram:Big Data Engineer
 
+## :tram:Big Data Engineer
 
 **:musical_note: Wish1: Coding Test**
 
@@ -15,7 +14,7 @@
  
  **:musical_note: Wish3: Study that I'm interested in.**
 
- **:musical_note: Wish4: My Footprints:stuck_out_tongue_closed_eyes:**
+ **:four_leaf_clover: Wish4: My Footprints:stuck_out_tongue_closed_eyes:**
 + 2019 entrance into Sangmyung Univ.
 + 2021 Sangmyung Univ. "Inyro Programming club" president
 + 2021 Sangmyung Univ. Multimedia Lab(AI) 
