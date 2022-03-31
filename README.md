@@ -19,3 +19,4 @@
 + 2021 Sangmyung Univ. "Inyro Programming club" president
 + 2021 Sangmyung Univ. Multimedia Lab(AI) 
 + 2022 Ideaware(wise app) Intern (Big Data analysist & Big Data Enginner)
++ 2022 Pseudo Lab NLP-CookBook
