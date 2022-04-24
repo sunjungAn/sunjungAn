@@ -4,9 +4,6 @@
 
 + github기록: https://github.com/algojunior/sunjungAn
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkstjswjd83)](https://solved.ac/dkstjswjd83)
-
  
  **:musical_note: Wish2: My Projects**
  
