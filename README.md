@@ -8,6 +8,7 @@
  **:musical_note: Wish2: My Projects**
  
  
+ 
  **:musical_note: Wish3: Study that I'm interested in.**
  + SQL :arrow_right: [Click](https://bubbly-hurricane-f9e.notion.site/SQL-6c18d157eb504a33ad7e8a143afcd925)
 
@@ -18,3 +19,6 @@
 + 2022 Ideaware(wise app) Intern (Big Data analysist & Big Data Enginner)
 + 2022 Pseudo Lab NLP-CookBook
 + 2022 Software maestro 13th
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dkstjswjd83})](https://solved.ac/{dkstjswjd83})
