@@ -21,4 +21,4 @@
 + 2022 Software maestro 13th
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dkstjswjd83})](https://solved.ac/{dkstjswjd83})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkstjswjd83)](https://solved.ac/dkstjswjd83)
