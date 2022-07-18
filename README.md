@@ -33,7 +33,7 @@
 
 <div align ="center">
  <h2>:cat:Contact me:cat:</h2>
- <div "href="https://sunjung.tistory.com/">
+ <div href="https://sunjung.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
  </div<                                                                                                      
 </div>
