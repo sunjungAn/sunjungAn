@@ -40,6 +40,9 @@
    <a href="https://sunjungan.github.io/PersonalWebsite">
     <img src="https://img.shields.io/badge/Portfolio-09D3AC?style=for-the-badge">
    </a>
+    <a href="https://sunjungan.github.io/PersonalWebsite">
+    <img src="https://img.shields.io/badge/TechBlog-3178C6?style=for-the-badge">
+   </a>
   </div>                                                                                       
 </div>
 
