@@ -40,7 +40,7 @@
    <a href="https://sunjungan.github.io/PersonalWebsite">
     <img src="https://img.shields.io/badge/Portfolio-09D3AC?style=for-the-badge">
    </a>
-    <a href="https://dkstjswjd83.gitbook.io/node.js/">
+    <a href="https://dkstjswjd83.gitbook.io/sunjung/">
     <img src="https://img.shields.io/badge/TechBlog-61DAFB?style=for-the-badge">
    </a>
   </div>                                                                                       
